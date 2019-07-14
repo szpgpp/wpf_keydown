@@ -1,0 +1,13 @@
+E:\VS Forms\WPF_TestKeyDown\bin\Debug\WPF_TestKeyDown.exe.config
+E:\VS Forms\WPF_TestKeyDown\bin\Debug\WPF_TestKeyDown.exe
+E:\VS Forms\WPF_TestKeyDown\bin\Debug\WPF_TestKeyDown.pdb
+E:\VS Forms\WPF_TestKeyDown\obj\Debug\WPF_TestKeyDown.csprojResolveAssemblyReference.cache
+E:\VS Forms\WPF_TestKeyDown\obj\Debug\MainWindow.baml
+E:\VS Forms\WPF_TestKeyDown\obj\Debug\MainWindow.g.cs
+E:\VS Forms\WPF_TestKeyDown\obj\Debug\App.g.cs
+E:\VS Forms\WPF_TestKeyDown\obj\Debug\WPF_TestKeyDown_MarkupCompile.cache
+E:\VS Forms\WPF_TestKeyDown\obj\Debug\WPF_TestKeyDown.g.resources
+E:\VS Forms\WPF_TestKeyDown\obj\Debug\WPF_TestKeyDown.Properties.Resources.resources
+E:\VS Forms\WPF_TestKeyDown\obj\Debug\WPF_TestKeyDown.csproj.GenerateResource.Cache
+E:\VS Forms\WPF_TestKeyDown\obj\Debug\WPF_TestKeyDown.exe
+E:\VS Forms\WPF_TestKeyDown\obj\Debug\WPF_TestKeyDown.pdb
